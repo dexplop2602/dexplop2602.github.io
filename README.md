@@ -10,11 +10,9 @@ Me encanta transformar ideas en código y estoy siempre buscando la mejor manera
 
 ### 🛠️ Tecnologías que utilizo
 
--   **Lenguajes:** Java, Python, C++, SQL
--   **Web:** HTML, CSS, JavaScript
--   **Herramientas:** Git, Docker, Visual Studio Code
+-   **Web:** HTML, CSS
+-   **Herramientas:** Visual Studio Code
 
-*(Simplemente edita esta lista con las tecnologías que tú conoces)*
 
 ---
 
