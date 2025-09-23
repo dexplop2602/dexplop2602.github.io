@@ -30,3 +30,5 @@ Técnico con una base práctica sólida gracias a mi **Grado Medio en Sistemas M
 Estoy abierto a colaboraciones y a aprender de otros profesionales.
 
 -   **Email:** dexplop9@gmail.com
+
+![Estadísticas de GitHub de anuraghazra](https://github-readme-stats.vercel.app/api?username=ANURAGHAZRA_USERNAME&show_icons=true&theme=radical)
