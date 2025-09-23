@@ -1,30 +1,32 @@
 # ¡Hola! Soy David 👋
 
-### 👨‍💻 Ingeniero Informático y Desarrollador de Software
+### 👨‍💻 Futuro Administrador de Sistemas | Apasionado del Hardware y las Redes
 
-Soy un apasionado de la tecnología con una sólida formación que combina la práctica de un **Grado Medio** con la especialización de un **Grado Superior en Sistemas Informáticos**.
-
-Siempre buscando la mejor manera de resolver problemas.
+Técnico con una base práctica sólida gracias a mi **Grado Medio en Sistemas Microinformáticos y Redes**. Ahora, subiendo de nivel con el **Grado Superior en Administración de Sistemas Informáticos en Red** para especializarme en la gestión y seguridad de infraestructuras.
 
 ---
 
-### 🛠️ Tecnologías que utilizo
+### 🚀 Mi Stack Tecnológico
 
--   **Web:** HTML, CSS
--   **Herramientas:** Visual Studio Code
-
----
-
-### 🌱 Actualmente estoy...
-
--   Estudiante de informática, ampliando constantemente mis conocimientos.
-
----
-
-### 📫 ¿Hablamos?
-
-Puedes contactarme en: **dexplop9@gmail.com**
+| Área                  | Tecnologías                               |
+| --------------------- | ----------------------------------------- |
+| 🌐 **Web**            | `HTML`, `CSS`                             |
+| 🗃️ **Bases de Datos**  | `MySQL`                                   |
+| 💻 **Hardware**       | Montaje, Mantenimiento y Diagnóstico      |
+| 🔗 **Redes**          | **Certificación Cisco CCNA**              |
+| 🛠️ **Herramientas**    | `Visual Studio Code`, `Git`, `GitHub`     |
 
 ---
 
-![Seguridad Informática](https://intecssa.com/wp-content/uploads/2023/04/%C2%BFQue-se-protege-en-seguridad-informatica.jpg)
+### 🌱 En mi día a día...
+
+-   Estudiante a tiempo completo del Grado Superior.
+-   Explorando proyectos personales para aplicar lo aprendido.
+
+---
+
+### 📫 ¡Conectemos!
+
+Estoy abierto a colaboraciones y a aprender de otros profesionales.
+
+-   **Email:** dexplop9@gmail.com
