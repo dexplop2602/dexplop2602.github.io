@@ -31,4 +31,4 @@ Estoy abierto a colaboraciones y a aprender de otros profesionales.
 
 -   **Email:** dexplop9@gmail.com
 
-![Estadísticas de GitHub de dexplop2602](https://github-readme-stats.vercel.app/api?username=dexplop2602&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
