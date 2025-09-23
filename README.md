@@ -31,4 +31,13 @@ Estoy abierto a colaboraciones y a aprender de otros profesionales.
 
 -   **Email:** dexplop9@gmail.com
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=dexplop2602&theme=dracula&column=7)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dexplop2602&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexplop2602&layout=compact&theme=tokyonight" alt="Lenguajes Principales" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dexplop2602&theme=dark" alt="Estadísticas de Racha" />
+</p>
