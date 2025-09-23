@@ -31,7 +31,5 @@ Estoy abierto a colaboraciones y a aprender de otros profesionales.
 
 -   **Email:** dexplop9@gmail.com
 
-<p align="center">
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula)
-</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula)
 
