@@ -20,9 +20,7 @@ Me encanta transformar ideas en código y estoy siempre buscando la mejor manera
 
 ### 🌱 Actualmente estoy...
 
--   Profundizando en **[Escribe aquí algo que estés aprendiendo, ej: el framework Spring Boot]**.
--   Desarrollando un **[Escribe un proyecto personal, ej: bot para Discord]**.
--   ¡Abierto a nuevas oportunidades y colaboraciones!
+-   Estudiante de informatica
 
 ---
 
